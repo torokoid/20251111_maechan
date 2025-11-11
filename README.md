@@ -299,9 +299,9 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 <br><br><br><br><br><br><br><br><br>
 
 <br><br>
-<h2><span class="yellow">今日のBGMは [เพลย์ลิสต์] BGM คาเฟ่ยามเช้าวันหยุด 🍂 เพลงอะคูสติกฟีลฤดูใบไม้ร่วง</span></h2>
+<h2><span class="yellow">今日のBGMは Music Travel Love Best Songs - Music Travel Love (Non-stop Playlist) 2020| Moffats Acoustic</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVTNI5wtT7g?si=h_fFtyO8eqwl9r93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TbWv1KJH6pM?si=2qRp2jBCE9VU1oYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     
     
